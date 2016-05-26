@@ -1,4 +1,4 @@
-HiApp
+HiApp Vietnamese
 =====
 
 A simple and interesting Framework7 hybrid app.With PhoneGap you can easily convert it to native iOS app.
